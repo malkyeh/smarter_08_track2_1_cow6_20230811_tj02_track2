@@ -1,0 +1,2 @@
+# smarter_08_track2_1_cow6_20230811_tj02_track2
+俯拍牛隻移動軌跡模型
